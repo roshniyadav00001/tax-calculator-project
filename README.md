@@ -13,7 +13,7 @@ Error handling for invalid inputs.
 Calculation of tax based on provided inputs.
 Modal display of the calculated tax amount.
 Demo
-You can see a live demo of the tax calculator here.
+You can see a live demo of the tax calculator here https://educative-webapp.netlify.app
 
 Usage
 
