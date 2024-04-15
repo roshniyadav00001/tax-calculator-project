@@ -20,7 +20,7 @@ Usage :
 Clone the repository:
 Copy code
 git clone https://github.com/roshniyadav00001/tax-calculator-project.git
-Open project.html in your web browser.
+Open index.html in your web browser.
 
 Fill in the required fields:
 
